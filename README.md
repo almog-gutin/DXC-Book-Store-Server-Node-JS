@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center">DXC-Book-Store-Server-Node.js-Javascript</h1>
+<h1 align="center">DXC Book Store Server Node.js Javascript</h1>
 
 <div align="center">
   <p align="center">
