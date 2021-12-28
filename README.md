@@ -62,7 +62,7 @@ In the applicaiton we can add books to the database, edit them and delete them. 
 **Git clone**
 
 ```
-git clone https://github.com/almog-gutin/DXC-Book-Store-Node-Javascript.git
+git clone https://github.com/almog-gutin/DXC-Book-Store-Server-Node-JS.git
 ```
 
 **Instructions**
